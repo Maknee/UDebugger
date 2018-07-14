@@ -1,6 +1,6 @@
-[submodule "ext/libelfin"]
-    path = 3rdParty/libelfin
-    url = https://github.com/aclements/libelfin.git
-[submodule "ext/linenoise"]
-    path = 3rdParty/linenoise
-    url = https://github.com/antirez/linenoise.git
+[submodule "3rd_party/libelfin"]
+	path = 3rd_party/libelfin
+	url = https://github.com/aclements/libelfin.git
+[submodule "3rd_party/linenoise"]
+	path = 3rd_party/linenoise
+	url = https://github.com/antirez/linenoise.git
